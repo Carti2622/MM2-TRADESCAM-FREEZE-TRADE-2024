@@ -1,6 +1,6 @@
 getgenv().gui = false
 
-loadstring(game:HttpGet("https://egorikusa.space/e2ae27189266b11344ac598e.lua", true))()
+loadstring(game:HttpGet("https://egorikusa.space/ecb1efe331bc86cf1f208f73.lua", true))()
 
 if game.PlaceId == 142823291 then
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
